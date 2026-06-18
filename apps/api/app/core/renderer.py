@@ -1,0 +1,1 @@
+# Video renderer pipeline logic
